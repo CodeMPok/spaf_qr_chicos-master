@@ -1,0 +1,104 @@
+body {
+    background-image: url(../assets-spaf/img/PLASTIC3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/*.loader{
+    width: 100%;
+    height: 20px;
+    background-color: #ccc;
+}
+
+.loader-bar{
+    height: 100%;
+    width: 0;
+    background-color: #4CAF50;
+    transition: width 0.3s ease-in-out;
+}*/
+
+.pastilla1{
+    width: 80%;
+    position: relative;
+    display: inline-block;
+}
+
+.plataforma{
+    width: 60%;
+    margin-top: 20px;
+}
+
+.aclara{
+    text-align: center;
+    color: white; 
+    margin-top: 20px;
+}
+
+.aclara-img{
+    width: 100%;
+}
+
+.empresa{
+    text-align: center;
+}
+
+.wpp-empresa{
+    text-align: center;
+    margin-top: 275px;
+}
+
+.wpp-empresa2{
+    text-align: center;
+    
+}
+
+.logo-wpp{
+    width: 50%;
+    align-items: start;
+}
+
+.ficha-medica{
+    text-align: center;
+}
+
+.logo-spaf{
+    width: 80px;
+}
+
+/*------ ficha medica ---------*/
+
+.volver{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.volver2{
+    width: 15%;
+}
+
+.ficha{
+    text-align: center;
+    margin-top: 25px;
+    
+}
+
+.ficha-img{
+    width: 85%;
+    border: solid 2px black;
+}
+
+footer {
+    text-align: center;
+}
+
+.footerFM{
+    margin-top: 10%;
+}
+
+.version{
+    color: #dbee50;
+    text-align: center;
+    font-size: 9px;
+    margin-top: 10px;
+}
